@@ -1,0 +1,100 @@
+[
+    {
+        "productName": "Super Exclusive",
+        "price": 19,
+        "currency": "GBP",
+        "productImage": "https://daye.cdn.prismic.io/daye/ee153f6163435330b18495535217c531300382a8_product2x.png",
+        "tampons": [
+            {
+                "size": "regular",
+                "coating": "none",
+                "amount": 8
+            },
+            {
+                "size": "regular",
+                "coating": "CBD",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "productName": "Super Supreme",
+        "price": 18,
+        "currency": "GBP",
+        "productImage": "https://daye.cdn.prismic.io/daye/ee153f6163435330b18495535217c531300382a8_product2x.png",
+        "tampons": [
+            {
+                "size": "regular",
+                "coating": "none",
+                "amount": 10
+            },
+            {
+                "size": "regular",
+                "coating": "CBD",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "productName": "Medium Supreme",
+        "price": 19,
+        "currency": "GBP",
+        "productImage": "https://daye.cdn.prismic.io/daye/ee153f6163435330b18495535217c531300382a8_product2x.png",
+        "tampons": [
+            {
+                "size": "small",
+                "coating": "none",
+                "amount": 8
+            },
+            {
+                "size": "small",
+                "coating": "CBD",
+                "amount": 4
+            }
+        ]
+    },
+    {
+        "productName": "Small Xtreme",
+        "price": 18,
+        "currency": "GBP",
+        "productImage": "https://daye.cdn.prismic.io/daye/ee153f6163435330b18495535217c531300382a8_product2x.png",
+        "tampons": [
+            {
+                "size": "small",
+                "coating": "none",
+                "amount": 10
+            },
+            {
+                "size": "small",
+                "coating": "CBD",
+                "amount": 2
+            }
+        ]
+    },
+    {
+        "productName": "Super Flexi",
+        "price": 17,
+        "currency": "GBP",
+        "productImage": "https://daye.cdn.prismic.io/daye/ee153f6163435330b18495535217c531300382a8_product2x.png",
+        "tampons": [
+            {
+                "size": "regular",
+                "coating": "none",
+                "amount": 12
+            }
+        ]
+    },
+    {
+        "productName": "Medium Deluxe",
+        "price": 17,
+        "currency": "GBP",
+        "productImage": "https://daye.cdn.prismic.io/daye/ee153f6163435330b18495535217c531300382a8_product2x.png",
+        "tampons": [
+            {
+                "size": "small",
+                "coating": "none",
+                "amount": 12
+            }
+        ]
+    }
+]
